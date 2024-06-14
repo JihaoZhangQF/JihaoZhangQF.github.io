@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Numerical Methods in Finance"
 collection: teaching
-type: "Workshop"
+type: "Graduate Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+venue: "ETH Zürich, Department of Mathematics"
+date: 2024-02-01
 location: "City, Country"
 ---
 
