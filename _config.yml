@@ -25,8 +25,8 @@ author:
   name             : "Jihao Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Universität Zürich and ETH Zürich"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : #"Earth"
+  employer         : #"Red Brick University"
   uri              : # URL
   email            : "jihzhang@student.ethz.ch" 
 
